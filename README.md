@@ -223,7 +223,7 @@ Until the article receives its final bibliographic record, cite the software as:
 
 ```bibtex
 @software{zheng2026cobicount,
-  author  = {Junjing Zheng, Zhiyi Zhou},
+  author  = {Junjing Zheng, Zhiyi Zhou, Ningrui Yang, Hongying Meng},
   title   = {COBICount: Candidate-Origin Bias Isolation for Source-Only Remote Sensing Object Counting},
   year    = {2026},
   version = {0.1.0},
